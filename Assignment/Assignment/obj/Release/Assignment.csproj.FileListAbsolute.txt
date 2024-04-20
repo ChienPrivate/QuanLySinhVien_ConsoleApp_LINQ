@@ -1,0 +1,12 @@
+D:\NET102_C#2_K3\excercise\PS27765_NguyenNgocChien_ASM2\Assignment\Assignment\bin\Release\Assignment.exe.config
+D:\NET102_C#2_K3\excercise\PS27765_NguyenNgocChien_ASM2\Assignment\Assignment\bin\Release\Assignment.exe
+D:\NET102_C#2_K3\excercise\PS27765_NguyenNgocChien_ASM2\Assignment\Assignment\bin\Release\Assignment.pdb
+D:\NET102_C#2_K3\excercise\PS27765_NguyenNgocChien_ASM2\Assignment\Assignment\obj\Release\Assignment.csproj.AssemblyReference.cache
+D:\NET102_C#2_K3\excercise\PS27765_NguyenNgocChien_ASM2\Assignment\Assignment\obj\Release\Assignment.csproj.SuggestedBindingRedirects.cache
+D:\NET102_C#2_K3\excercise\PS27765_NguyenNgocChien_ASM2\Assignment\Assignment\obj\Release\Assignment.csproj.CoreCompileInputs.cache
+D:\NET102_C#2_K3\excercise\PS27765_NguyenNgocChien_ASM2\Assignment\Assignment\obj\Release\Assignment.exe
+D:\NET102_C#2_K3\excercise\PS27765_NguyenNgocChien_ASM2\Assignment\Assignment\obj\Release\Assignment.pdb
+D:\NET102_C#2_K3\excercise\PS27765_NguyenNgocChien_ASM2\Assignment\Assignment\bin\Release\Assignment.exe.manifest
+D:\NET102_C#2_K3\excercise\PS27765_NguyenNgocChien_ASM2\Assignment\Assignment\bin\Release\Assignment.application
+D:\NET102_C#2_K3\excercise\PS27765_NguyenNgocChien_ASM2\Assignment\Assignment\obj\Release\Assignment.exe.manifest
+D:\NET102_C#2_K3\excercise\PS27765_NguyenNgocChien_ASM2\Assignment\Assignment\obj\Release\Assignment.application

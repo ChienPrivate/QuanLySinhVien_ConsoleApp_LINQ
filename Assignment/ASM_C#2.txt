@@ -1,0 +1,3 @@
+{ IdClass = 1, NameClass = C#1, Avg = 9.42857142857143 }
+{ IdClass = 2, NameClass = C#2, Avg = 8.46 }
+{ IdClass = 3, NameClass = C#3, Avg = 10 }

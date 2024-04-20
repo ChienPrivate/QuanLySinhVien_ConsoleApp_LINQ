@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Asm_C#2" Class="SQLServiceDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=CHIENNNPS27765;Initial Catalog=Asm_C#2;Integrated Security=True" SettingsObjectName="Assignment.Properties.Settings" SettingsPropertyName="Asm_C_2ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Class" Member="Classes">
+    <Type Name="Class">
+      <Column Name="IdClass" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NameClass" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Class_Student" Member="Students" ThisKey="IdClass" OtherKey="IdClass" Type="Student" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Student" Member="Students">
+    <Type Name="Student">
+      <Column Name="StId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Mark" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="IdClass" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Class_Student" Member="Class" ThisKey="IdClass" OtherKey="IdClass" Type="Class" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

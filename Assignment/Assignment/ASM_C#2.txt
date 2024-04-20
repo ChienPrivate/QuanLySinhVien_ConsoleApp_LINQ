@@ -1,0 +1,3 @@
+mã lớp     | Tên lớp    | Điểm trung bình
+1          | C#1        | 7.9
+2          | C#2        | 8.075
